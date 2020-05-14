@@ -5,3 +5,4 @@ doc/build
 cx_Oracle.egg-info/
 MANIFEST
 .idea/
+samples/arpas/db_config_no_git.py
