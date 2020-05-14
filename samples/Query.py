@@ -9,7 +9,8 @@
 #------------------------------------------------------------------------------
 
 import cx_Oracle
-import SampleEnv
+
+from samples import SampleEnv
 
 connection = cx_Oracle.connect(SampleEnv.GetMainConnectString())
 
